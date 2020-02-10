@@ -1,0 +1,11 @@
+C:\repos\StringsTutorialSolution\StringsTutorialProject\bin\Debug\netcoreapp3.1\StringsTutorialProject.exe
+C:\repos\StringsTutorialSolution\StringsTutorialProject\bin\Debug\netcoreapp3.1\StringsTutorialProject.deps.json
+C:\repos\StringsTutorialSolution\StringsTutorialProject\bin\Debug\netcoreapp3.1\StringsTutorialProject.runtimeconfig.json
+C:\repos\StringsTutorialSolution\StringsTutorialProject\bin\Debug\netcoreapp3.1\StringsTutorialProject.runtimeconfig.dev.json
+C:\repos\StringsTutorialSolution\StringsTutorialProject\bin\Debug\netcoreapp3.1\StringsTutorialProject.dll
+C:\repos\StringsTutorialSolution\StringsTutorialProject\bin\Debug\netcoreapp3.1\StringsTutorialProject.pdb
+C:\repos\StringsTutorialSolution\StringsTutorialProject\obj\Debug\netcoreapp3.1\StringsTutorialProject.csprojAssemblyReference.cache
+C:\repos\StringsTutorialSolution\StringsTutorialProject\obj\Debug\netcoreapp3.1\StringsTutorialProject.AssemblyInfoInputs.cache
+C:\repos\StringsTutorialSolution\StringsTutorialProject\obj\Debug\netcoreapp3.1\StringsTutorialProject.AssemblyInfo.cs
+C:\repos\StringsTutorialSolution\StringsTutorialProject\obj\Debug\netcoreapp3.1\StringsTutorialProject.dll
+C:\repos\StringsTutorialSolution\StringsTutorialProject\obj\Debug\netcoreapp3.1\StringsTutorialProject.pdb
